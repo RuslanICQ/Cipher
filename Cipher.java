@@ -14,14 +14,7 @@ class Cipher{
 		//System.out.println(mixer.go("066144152134219156144143121065208157065193165148219145143", 3));
 
 		DeMixer dEmixer = new DeMixer();
-		//System.out.println(dEmixer.go("025189235130184194254141156154246054144076163115196162131", 3));
-
-		/*CipherText cipherText = new CipherText();
-		System.out.println(cipherText.go("!!hello I am Ruslan", "!o0"));
-
-		DeCipherText deCipherText = new DeCipherText();
-		System.out.println(deCipherText.go("066144152134219156144143121065208157065193165148219145143", "!o0"));
-		*/
+		
 	}
 }
 
